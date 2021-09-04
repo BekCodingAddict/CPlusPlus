@@ -7,6 +7,6 @@ It is almost always implemented as a compiled language, and many vendors provide
 <table style="padding:20px 25px;">
   <tr>
     <td><h3>Basic C++ Consepts</h3></td>
-    <td><a href="https://github.com/Optimus970803/Cplusplus-Programming/tree/main/C%2B%2B_Example_Projects/">There are All of C++ Fundamental Gramatic Consepts I have Learned.</a></td>
+    <td><a href="https://github.com/Optimus970803/Cplusplus-Programming/tree/main/C%2B%2B_Example_Projects/">There are All of C++ Fundamental Grammatical Consepts I have Learned.</a></td>
   </tr>
 </table>
